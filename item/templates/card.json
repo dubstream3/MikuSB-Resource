@@ -869,7 +869,7 @@
         ],
         "LimitWeapon": 4,
         "SpineID": 10055,
-        "Pieces": "",
+        "Pieces": [[5, 4, 4, 4, 60]],
         "Attribute": [
             4
         ],

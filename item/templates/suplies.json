@@ -5316,5 +5316,30 @@
         "Expiration": "",
         "RecycleID": "",
         "GMnum": 999
+    },
+    {
+        "Genre": 5,
+        "Detail": 4,
+        "Particular": 4,
+        "Level": 4,
+        "Close": "",
+        "LuaType": "",
+        "Classify": 1,
+        "I18n": "supplies.pieces053",
+        "Color": 5,
+        "Icon": 1510013,
+        "EXIcon": 1520009,
+        "UseMode": "",
+        "CanStack": 1,
+        "CanEnhance": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ProvideExp": "",
+        "ConsumeGold": "",
+        "UseStartTime": "",
+        "Expiration": "",
+        "RecycleID": "",
+        "GMnum": 999
     }
 ]
